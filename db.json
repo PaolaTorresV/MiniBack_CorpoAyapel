@@ -31,19 +31,26 @@
     ],
     "banner":[
         {
-            "id":"01",
-            "img":"",
-            "tittle":"",
+            "id": 1,
+            "imageUrl": "https://blogs.elespectador.com/wp-content/uploads/2018/02/WhatsApp-Image-2018-02-02-at-5.36.26-PM.jpeg",
+            "title": "Banner 1",
             "description":"",
             "link":""
-        },
-        {
-            "id":"02",
-            "img":"",
-            "tittle":"",
+          },
+          {
+            "id": 2,
+            "imageUrl": "https://corpoayapel.org/wp-content/uploads/2020/01/paisa-3.jpg",
+            "title": "Banner 2",
             "description":"",
             "link":""
-        }
+          },
+          {
+            "id": 3,
+            "imageUrl": "https://corpoayapel.org/wp-content/uploads/2020/01/artesanos1-1.png",
+            "title": "Banner 3",
+            "description":"",
+            "link":""
+          }
     ],
     "products": [
         {
