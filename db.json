@@ -1,233 +1,282 @@
 {
-    "ussers": [
-        {
-            "id": "01",
-            "usser_name": "pao",
-            "password": "1234",
-            "name": "Paola",
-            "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
-        },
-        {
-            "id": "02",
-            "usser_name": "andi",
-            "password": "5678",
-            "name": "Andres",
-            "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
-        },
-        {
-            "id": "03",
-            "usser_name": "nati",
-            "password": "1234",
-            "name": "Natalia",
-            "img": "https://i.ibb.co/M6RQPG7/avatar-diana.png"
-        },
-        {
-            "id": "04",
-            "usser_name": "diegui",
-            "password": "5678",
-            "name": "Diego",
-            "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
-        }
-    ],
-    "banner":[
-        {
-            "id": 1,
-            "imageUrl": "https://blogs.elespectador.com/wp-content/uploads/2018/02/WhatsApp-Image-2018-02-02-at-5.36.26-PM.jpeg",
-            "title": "Banner 1",
-            "description":"",
-            "link":""
-          },
-          {
-            "id": 2,
-            "imageUrl": "https://corpoayapel.org/wp-content/uploads/2020/01/paisa-3.jpg",
-            "title": "Banner 2",
-            "description":"",
-            "link":""
-          },
-          {
-            "id": 3,
-            "imageUrl": "https://corpoayapel.org/wp-content/uploads/2020/01/artesanos1-1.png",
-            "title": "Banner 3",
-            "description":"",
-            "link":""
-          }
-    ],
-    "products": [
-        {
-            "id": "01",
-            "product_name": "Lámpara Pared",
-            "price": "$133.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Navidad",
-                "3": "Lámparas"
-            },
-            "img": {
-                "1": "https://i.ibb.co/rk8NF8y/lampara-pared1.jpg",
-                "2": "https://i.ibb.co/M60qzkK/lampara-pared2.jpg",
-                "3": "https://i.ibb.co/GsSFyZw/lampara-pared3.jpg",
-                "4": "https://i.ibb.co/Ypvnmnx/lampara-pared4.jpg"
-            },
-            "decription": "Tamaño: 25 x 23 x 16 de profundo aprox. Material: palma de seje. Aplique para pared ideal para tapar los molestos bombillos que quedan a la vista. Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina. CUIDADOS Y RECOMENDACIONES.\n\n- No exponer la palma prolongadamente al agua.\n- No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n- Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n- Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n- Las lámparas vienen sin bombillo ni instalación eléctrica.\n- Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n- Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
-        },
-        {
-            "id": "02",
-            "product_name": "Adorno circular para pared",
-            "price": "$304.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Navidad",
-                "3": "Decoración"
-            },
-            "img": {
-                "1": "https://i.ibb.co/cLdWYzf/aodorno-circular-pared.jpg"
-            },
-            "decription": "Tamaño: 56 cm de diámetro aprox.\nMaterial: palma de seje.\nPlatón decorativo para pared. Se puede pedir en varios tamaños, con rayas negras o color natural.\nTiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la página.\nCUIDADOS Y RECOMENDACIONES\n\n- No exponer la palma prolongadamente al agua.\n- No poner el producto en contacto directo  con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n- Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n- Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n- Las lámparas vienen sin bombillo ni instalación eléctrica.\n- Algunos productos vienen con unas bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n- Las pequeñas diferencias, cambios de color o irregularidad en los acabados son parte de la estética y valor del producto que reflejan un proceso artesanal."
-        },
-        {
-            "id": "03",
-            "product_name": "Gallina Para Huevos",
-            "price": "$285.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Decoración",
-                "3": "Para la Mesa",
-                "4": "Novedades"
-            },
-            "img": {
-                "1": "https://i.ibb.co/5FYcPkp/gallina-para-huevos.jpg"
-            },
-            "decription": "Tamaño: 25 cm ancho x 46 cm largo x 14 cm alto aprox.\n Material: palma de seje. \n Gallina artesanal para darle protagonismo a tu cocina y organizar los huevos.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES \n * No exponer la palma prolongadamente al agua. \n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto). * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica. \n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo. \n* Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
-        },
-        {
-            "id": "04",
-            "product_name": "Frutero cuadrado",
-            "price": "$190.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Bandeja",
-                "3": "Navidad"
-            },
-            "img": {
-                "1": "https://i.ibb.co/L1YvQfN/frutero-cuadrado.jpg",
-                "2": "https://i.ibb.co/hmWqnyc/frutero-cuadrado2.jpg",
-                "3": "https://i.ibb.co/y4j2Q6N/frutero-cuadrado3.jpg"
-            },
-            "decription": "Tamaño: 36 x 36 cm.\n Material: palma de seje, estructura en hierro.\n Perfecto para usar como frutero, centro de mesa o plato base. Esta bandeja es la especialidad de Neco, la artesana que la hizo. Dice que al tejerla, se le olvidan sus problemas y se concentra solo en el momento. Es su propia meditación.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES \n* No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica.\n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
-        },
-        {
-            "id": "05",
-            "product_name": "Caja redonda con tapa",
-            "price": "$114.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Cajas",
-                "3": "Navidad"
-            },
-            "img": {
-                "1": "https://i.ibb.co/g68f0YK/caja-redonda-con-tapa.jpg",
-                "2": "https://i.ibb.co/WVXMjFq/caja-redonda-con-tapa2.jpg",
-                "3": "https://i.ibb.co/qs033Pq/caja-redonda-con-tapa3.jpg",
-                "4": "https://i.ibb.co/nspH0Pf/caja-redonda-con-tapa4.jpg"
-            },
-            "decription": "Tamaño pequeño: 17 x 10 cm.\n Tamaño mediano: 24 x 10 cm.\nTamaño grande: 28 x 10 cm.\n Material: palma de seje, estructura en hierro. \nEstas cajas se pueden usar en la cocina como tortilleras, en el baño, o en la mesa de noche para que el desorden no se vea. \nTiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES\n * No exponer la palma prolongadamente al agua.\n  * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n  * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica.\n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
-        },
-        {
-            "id": "06",
-            "product_name": "Mesa cuadrada",
-            "price": "$304.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Canastos"
-            },
-            "img": {
-                "1": "https://i.ibb.co/71BQMmJ/mesa-cuadrada1.jpg",
-                "2": "https://i.ibb.co/4p3R9Qd/mesa-cuadrada.jpg"
-            },
-            "decription": "Tamaño pequeño: 40 x 30 cm.\n Tamaño mediano: 50 x 40 cm.\n Tamaño grande: 60 x 50 cm.\n Material: palma de seje.\n Canastos cuadrados en gran formato para darle vida a los espacios. Se pueden usar como guardadero, para las plantas, para los juguetes en el cuarto de los niños, etc.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES\n * No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n  * Las lámparas vienen sin bombillo ni instalación eléctrica.\n  * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
-        }, 
-        {
-            "id": "07",
-            "product_name": "Cubre matera redonda sin base tejida",
-            "price": "$817.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Decoración",
-                "3": "Mesas auxiliares"
-            },
-            "img": {
-                "1": "https://i.ibb.co/F7KcMMV/cubre-madera-redonda-sin-base-tejida.jpg"
-            },
-            "decription": "Tamaño: 70 cm de diámetro.\n Material: palma de seje, estructura con base en hierro. \n Usalo como silla o mesa de centro. Dale un toque especial a todos tus espacios con el puff.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina. \n CUIDADOS Y RECOMENDACIONES \n * No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto). \n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro. \n* Las lámparas vienen sin bombillo ni instalación eléctrica. \n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo. \n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
-        },
-        {
-            "id": "08",
-            "product_name": "Papelera vaivén",
-            "price": "$171.000",
-            "category": {
-                "1": "Artesanías",
-                "2": "Papeleras",
-                "3": "Los clasicos"
-            },
-            "img": {
-                "1": "https://i.ibb.co/rkPdJqv/papelera-vaiv-n.jpg",
-                "2": "https://i.ibb.co/B4QvRp6/papelera-vaiv-n2.jpg",
-                "3": "https://i.ibb.co/xzq7gvw/papelera-vaiv-n3.jpg"
-            },
-            "decription": "Tamaño mediano: 30 x 20 cm.\nTamaño grande: 45 x 25 cm. \n Material: palma de seje, estructura en hierro.\n  El trabajo artesanal es un oficio anclado en el tiempo... ligado con la tierra, con lo manual y la tradición. Apoyémoslo.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina. \n CUIDADOS Y RECOMENDACIONES \n * No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto). \n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol. \n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica. \n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo. \n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
-        }
-    ],
-    "categories": [
-        {
-            "id": "1",
-            "name": "Otros materiales"
-        },
-        {
-            "id": "2",
-            "name": "Bandeja"
-        },
-        {
-            "id": "3",
-            "name": "Cajas"
-        },
-        {
-            "id": "4",
-            "name": "Canastos"
-        },
-        {
-            "id": "5",
-            "name": "Decoración"
-        },
-        {
-            "id": "6",
-            "name": "Lámparas"
-        },
-        {
-            "id": "7",
-            "name": "Materas"
-        },
-        {
-            "id": "8",
-            "name": "Mesas auxiliares"
-        },
-        {
-            "id": "9",
-            "name": "Navidad"
-        },
-        {
-            "id": "10",
-            "name": "Novedades"
-        },
-        {
-            "id": "11",
-            "name": "Pepeleras"
-        },
-        {
-            "id": "12",
-            "name": "Para la mesa"
-        }
-    ],
-    "cart": [],
-    "order": []
+  "ussers": [
+    {
+      "id": "01",
+      "usser_name": "pao",
+      "password": "1234",
+      "name": "Paola",
+      "img": "https://i.ibb.co/tDDM6pR/avatar-paola.jpg"
+    },
+    {
+      "id": "02",
+      "usser_name": "andi",
+      "password": "5678",
+      "name": "Andres",
+      "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
+    },
+    {
+      "id": "03",
+      "usser_name": "nati",
+      "password": "1234",
+      "name": "Natalia",
+      "img": "https://i.ibb.co/M6RQPG7/avatar-diana.png"
+    },
+    {
+      "id": "04",
+      "usser_name": "diegui",
+      "password": "5678",
+      "name": "Diego",
+      "img": "https://i.ibb.co/B3rHjYs/avatar-jose.png"
+    }
+  ],
+  "banner": [
+    {
+      "id": 1,
+      "imageUrl": "https://blogs.elespectador.com/wp-content/uploads/2018/02/WhatsApp-Image-2018-02-02-at-5.36.26-PM.jpeg",
+      "title": "Banner 1",
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://corpoayapel.org/wp-content/uploads/2020/01/paisa-3.jpg",
+      "title": "Banner 2",
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://corpoayapel.org/wp-content/uploads/2020/01/artesanos1-1.png",
+      "title": "Banner 3",
+      "description": "",
+      "link": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "01",
+      "product_name": "Lámpara Pared",
+      "price": "133000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Navidad",
+        "3": "Lámparas"
+      },
+      "img": {
+        "1": "https://i.ibb.co/rk8NF8y/lampara-pared1.jpg",
+        "2": "https://i.ibb.co/M60qzkK/lampara-pared2.jpg",
+        "3": "https://i.ibb.co/GsSFyZw/lampara-pared3.jpg",
+        "4": "https://i.ibb.co/Ypvnmnx/lampara-pared4.jpg"
+      },
+      "decription": "Tamaño: 25 x 23 x 16 de profundo aprox. Material: palma de seje. Aplique para pared ideal para tapar los molestos bombillos que quedan a la vista. Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina. CUIDADOS Y RECOMENDACIONES.\n\n- No exponer la palma prolongadamente al agua.\n- No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n- Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n- Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n- Las lámparas vienen sin bombillo ni instalación eléctrica.\n- Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n- Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
+    },
+    {
+      "id": "02",
+      "product_name": "Adorno circular para pared",
+      "price": "304000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Navidad",
+        "3": "Decoración"
+      },
+      "img": {
+        "1": "https://i.ibb.co/cLdWYzf/aodorno-circular-pared.jpg"
+      },
+      "decription": "Tamaño: 56 cm de diámetro aprox.\nMaterial: palma de seje.\nPlatón decorativo para pared. Se puede pedir en varios tamaños, con rayas negras o color natural.\nTiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la página.\nCUIDADOS Y RECOMENDACIONES\n\n- No exponer la palma prolongadamente al agua.\n- No poner el producto en contacto directo  con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n- Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n- Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n- Las lámparas vienen sin bombillo ni instalación eléctrica.\n- Algunos productos vienen con unas bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n- Las pequeñas diferencias, cambios de color o irregularidad en los acabados son parte de la estética y valor del producto que reflejan un proceso artesanal."
+    },
+    {
+      "id": "03",
+      "product_name": "Gallina Para Huevos",
+      "price": "285000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Decoración",
+        "3": "Para la Mesa",
+        "4": "Novedades"
+      },
+      "img": {
+        "1": "https://i.ibb.co/5FYcPkp/gallina-para-huevos.jpg"
+      },
+      "decription": "Tamaño: 25 cm ancho x 46 cm largo x 14 cm alto aprox.\n Material: palma de seje. \n Gallina artesanal para darle protagonismo a tu cocina y organizar los huevos.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES \n * No exponer la palma prolongadamente al agua. \n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto). * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica. \n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo. \n* Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
+    },
+    {
+      "id": "04",
+      "product_name": "Frutero cuadrado",
+      "price": "190000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Bandeja",
+        "3": "Navidad"
+      },
+      "img": {
+        "1": "https://i.ibb.co/L1YvQfN/frutero-cuadrado.jpg",
+        "2": "https://i.ibb.co/hmWqnyc/frutero-cuadrado2.jpg",
+        "3": "https://i.ibb.co/y4j2Q6N/frutero-cuadrado3.jpg"
+      },
+      "decription": "Tamaño: 36 x 36 cm.\n Material: palma de seje, estructura en hierro.\n Perfecto para usar como frutero, centro de mesa o plato base. Esta bandeja es la especialidad de Neco, la artesana que la hizo. Dice que al tejerla, se le olvidan sus problemas y se concentra solo en el momento. Es su propia meditación.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES \n* No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica.\n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
+    },
+    {
+      "id": "05",
+      "product_name": "Caja redonda con tapa",
+      "price": "114000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Cajas",
+        "3": "Navidad"
+      },
+      "img": {
+        "1": "https://i.ibb.co/g68f0YK/caja-redonda-con-tapa.jpg",
+        "2": "https://i.ibb.co/WVXMjFq/caja-redonda-con-tapa2.jpg",
+        "3": "https://i.ibb.co/qs033Pq/caja-redonda-con-tapa3.jpg",
+        "4": "https://i.ibb.co/nspH0Pf/caja-redonda-con-tapa4.jpg"
+      },
+      "decription": "Tamaño pequeño: 17 x 10 cm.\n Tamaño mediano: 24 x 10 cm.\nTamaño grande: 28 x 10 cm.\n Material: palma de seje, estructura en hierro. \nEstas cajas se pueden usar en la cocina como tortilleras, en el baño, o en la mesa de noche para que el desorden no se vea. \nTiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES\n * No exponer la palma prolongadamente al agua.\n  * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n  * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica.\n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
+    },
+    {
+      "id": "06",
+      "product_name": "Mesa cuadrada",
+      "price": "304000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Canastos"
+      },
+      "img": {
+        "1": "https://i.ibb.co/71BQMmJ/mesa-cuadrada1.jpg",
+        "2": "https://i.ibb.co/4p3R9Qd/mesa-cuadrada.jpg"
+      },
+      "decription": "Tamaño pequeño: 40 x 30 cm.\n Tamaño mediano: 50 x 40 cm.\n Tamaño grande: 60 x 50 cm.\n Material: palma de seje.\n Canastos cuadrados en gran formato para darle vida a los espacios. Se pueden usar como guardadero, para las plantas, para los juguetes en el cuarto de los niños, etc.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES\n * No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n  * Las lámparas vienen sin bombillo ni instalación eléctrica.\n  * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
+    },
+    {
+      "id": "07",
+      "product_name": "Cubre matera redonda sin base tejida",
+      "price": "817000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Decoración",
+        "3": "Mesas auxiliares"
+      },
+      "img": {
+        "1": "https://i.ibb.co/F7KcMMV/cubre-madera-redonda-sin-base-tejida.jpg"
+      },
+      "decription": "Tamaño: 70 cm de diámetro.\n Material: palma de seje, estructura con base en hierro. \n Usalo como silla o mesa de centro. Dale un toque especial a todos tus espacios con el puff.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina. \n CUIDADOS Y RECOMENDACIONES \n * No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto). \n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro. \n* Las lámparas vienen sin bombillo ni instalación eléctrica. \n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo. \n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
+    },
+    {
+      "id": "08",
+      "product_name": "Papelera vaivén",
+      "price": "171000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Papeleras",
+        "3": "Los clasicos"
+      },
+      "img": {
+        "1": "https://i.ibb.co/rkPdJqv/papelera-vaiv-n.jpg",
+        "2": "https://i.ibb.co/B4QvRp6/papelera-vaiv-n2.jpg",
+        "3": "https://i.ibb.co/xzq7gvw/papelera-vaiv-n3.jpg"
+      },
+      "decription": "Tamaño mediano: 30 x 20 cm.\nTamaño grande: 45 x 25 cm. \n Material: palma de seje, estructura en hierro.\n  El trabajo artesanal es un oficio anclado en el tiempo... ligado con la tierra, con lo manual y la tradición. Apoyémoslo.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina. \n CUIDADOS Y RECOMENDACIONES \n * No exponer la palma prolongadamente al agua.\n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto). \n * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol. \n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica. \n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo. \n * Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal."
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Otros materiales"
+    },
+    {
+      "id": "2",
+      "name": "Bandeja"
+    },
+    {
+      "id": "3",
+      "name": "Cajas"
+    },
+    {
+      "id": "4",
+      "name": "Canastos"
+    },
+    {
+      "id": "5",
+      "name": "Decoración"
+    },
+    {
+      "id": "6",
+      "name": "Lámparas"
+    },
+    {
+      "id": "7",
+      "name": "Materas"
+    },
+    {
+      "id": "8",
+      "name": "Mesas auxiliares"
+    },
+    {
+      "id": "9",
+      "name": "Navidad"
+    },
+    {
+      "id": "10",
+      "name": "Novedades"
+    },
+    {
+      "id": "11",
+      "name": "Pepeleras"
+    },
+    {
+      "id": "12",
+      "name": "Para la mesa"
+    }
+  ],
+  "cart": [
+    {
+      "id": "01",
+      "product_name": "Lámpara Pared",
+      "price": "133000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Navidad",
+        "3": "Lámparas"
+      },
+      "img": {
+        "1": "https://i.ibb.co/rk8NF8y/lampara-pared1.jpg",
+        "2": "https://i.ibb.co/M60qzkK/lampara-pared2.jpg",
+        "3": "https://i.ibb.co/GsSFyZw/lampara-pared3.jpg",
+        "4": "https://i.ibb.co/Ypvnmnx/lampara-pared4.jpg"
+      },
+      "decription": "Tamaño: 25 x 23 x 16 de profundo aprox. Material: palma de seje. Aplique para pared ideal para tapar los molestos bombillos que quedan a la vista. Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina. CUIDADOS Y RECOMENDACIONES.\n\n- No exponer la palma prolongadamente al agua.\n- No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n- Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n- Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n- Las lámparas vienen sin bombillo ni instalación eléctrica.\n- Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n- Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal.",
+      "quantity": 3
+    },
+    {
+      "id": "02",
+      "product_name": "Adorno circular para pared",
+      "price": "304000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Navidad",
+        "3": "Decoración"
+      },
+      "img": {
+        "1": "https://i.ibb.co/cLdWYzf/aodorno-circular-pared.jpg"
+      },
+      "decription": "Tamaño: 56 cm de diámetro aprox.\nMaterial: palma de seje.\nPlatón decorativo para pared. Se puede pedir en varios tamaños, con rayas negras o color natural.\nTiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la página.\nCUIDADOS Y RECOMENDACIONES\n\n- No exponer la palma prolongadamente al agua.\n- No poner el producto en contacto directo  con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto).\n- Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n- Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n- Las lámparas vienen sin bombillo ni instalación eléctrica.\n- Algunos productos vienen con unas bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo.\n- Las pequeñas diferencias, cambios de color o irregularidad en los acabados son parte de la estética y valor del producto que reflejan un proceso artesanal.",
+      "quantity": 1
+    },
+    {
+      "id": "03",
+      "product_name": "Gallina Para Huevos",
+      "price": "285000",
+      "category": {
+        "1": "Artesanías",
+        "2": "Decoración",
+        "3": "Para la Mesa",
+        "4": "Novedades"
+      },
+      "img": {
+        "1": "https://i.ibb.co/5FYcPkp/gallina-para-huevos.jpg"
+      },
+      "decription": "Tamaño: 25 cm ancho x 46 cm largo x 14 cm alto aprox.\n Material: palma de seje. \n Gallina artesanal para darle protagonismo a tu cocina y organizar los huevos.\n Tiempo de entrega: 10 a 15 días hábiles después de realizar el pedido en la pagina.\n CUIDADOS Y RECOMENDACIONES \n * No exponer la palma prolongadamente al agua. \n * No poner el producto en contacto directo con tierra (esto es especialmente para los canastos para que usen una matera y no pongan la planta directamente en el canasto). * Forma de limpiarlo: con agua y jabón rey y un cepillito y dejar secar al sol.\n * Color de la palma, dependiendo del lugar de recolección, puede variar entre café claro y oscuro.\n * Las lámparas vienen sin bombillo ni instalación eléctrica. \n * Algunos productos vienen con una bolitas (pequeñas semillas) que es normal que se vayan cayendo con el tiempo. \n* Las pequeñas diferencias, cambios de color o irregularidad en los acabados es parte de la estética y valor del producto que reflejan un proceso artesanal.",
+      "quantity": 2
+    }
+  ],
+  "order": []
 }
-
